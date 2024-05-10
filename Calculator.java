@@ -53,11 +53,6 @@ public class Calculator {
 
     public static void divide(double num1, double num2) {
         // Student Number 4, add your code here 
-     if (num2 != 0) {
-        double result = num1 / num2;
-        System.out.println("Result: " + result);
-    } else {
-        System.out.println("Cannot divide by zero!");
-    }
+
     }
 }
